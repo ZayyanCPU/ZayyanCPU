@@ -24,5 +24,6 @@ Welcome to my GitHub profile! I am currently pursuing a Bachelor's degree in Art
 Feel free to connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/zayyan-ahmad/)
+- Email (zayyanahmad765@gmail.com)
 
 Thank you for visiting my GitHub profile! 🚀
