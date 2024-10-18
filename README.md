@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello! 👋 I'm Muhammad Zayyan Ahmad
 
-<!--
-**MuhammadZayyanAhmad/MuhammadZayyanAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am currently pursuing a Bachelor's degree in Artificial Intelligence (BSAI), with a strong focus on machine learning and generative engineering with LLM.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Education**: Bachelor of Science in Artificial Intelligence (BSAI)
+- **Expertise**: 
+  - Machine Learning
+  - Generative Engineering with Large Language Models (LLM)
+- **Programming Skills**:
+  - **Python**: Professional Developer
+  - **C++**: Professional Developer
+
+## Skills
+
+- **Machine Learning**: Proficient in developing algorithms and models for data analysis and prediction.
+- **Generative Engineering**: Experience with creating and optimizing models using large language models for various applications.
+- **Software Development**: Strong programming capabilities in Python and C++, emphasizing clean, efficient code and best practices.
+
+
+## Get in Touch
+
+Feel free to connect with me on:
+
+- [LinkedIn](https://www.linkedin.com/in/zayyan-ahmad/)
+
+Thank you for visiting my GitHub profile! 🚀
