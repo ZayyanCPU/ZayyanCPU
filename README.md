@@ -1,7 +1,7 @@
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zayyan-ahmad) LinkedIn: [https://linkedin.com/in/zayyan-ahmad]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zayyan-ahmad) LinkedIn: https://linkedin.com/in/zayyan-ahmad
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zayyanahmad765@gmail.com) Email: [zayyanahmad765@gmail.com]
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zayyanahmad765@gmail.com) Email: zayyanahmad765@gmail.com
 
 
 # 💻 Tech Stack:
