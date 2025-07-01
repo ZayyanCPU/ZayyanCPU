@@ -2,7 +2,7 @@
 🔭 I’m focusing on developing and fine-tuning large language models (LLMs) and exploring neural network integration with reinforcement learning.<br>👯 I’d love to collaborate on AI projects involving machine learning applications in NLP, computer vision, or advanced learning techniques.<br>🤝 I’m seeking help with optimizing model architectures for faster training and improving hardware utilization in large-scale machine learning.<br>🌱 I’m diving into advanced neural network architectures like Transformers and studying unsupervised and reinforcement learning techniques.<br>💬 Ask me about neural networks, LLMs, or the latest trends in AI like transfer learning and generative models!<br>⚡ Training neural networks is similar to how the brain learns, adjusting weights instead of electrical signals.
 
 ## 🌐 Socials:
-🌍: [https://zayyan.work](https://zayyan.work)
+🌍 [https://zayyan.work](https://zayyan.work)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zayyan-ahmad) LinkedIn: [https://linkedin.com/in/zayyan-ahmad](https://linkedin.com/in/zayyan-ahmad)
 
