@@ -1,3 +1,23 @@
+<!-- HEADER BANNER -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Ammar%20Akbar&fontSize=38&fontColor=ffffff"/>
+</p>
+
+<!-- TYPING ANIMATION -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=750&lines=AI+Engineer;Computer+Vision+Developer;Machine+Learning+Builder;Automotive+AI+Enthusiast"/>
+<img src="https://komarev.com/ghpvc/?username=blackmangoo&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</p>
+
+<h3 align="center">
+Machine Learning Engineer • Data Engineer • Model Tester
+</h3>
+
+<p align="center">
+Powering Intelligence
+</p>
+
 # 💫 About Me:
 🔭 I’m focusing on developing and fine-tuning large language models (LLMs) and exploring neural network integration with reinforcement learning.<br>👯 I’d love to collaborate on AI projects involving machine learning applications in NLP, computer vision, or advanced learning techniques.<br>🤝 I’m seeking help with optimizing model architectures for faster training and improving hardware utilization in large-scale machine learning.<br>🌱 I’m diving into advanced neural network architectures like Transformers and studying unsupervised and reinforcement learning techniques.<br>💬 Ask me about neural networks, LLMs, or the latest trends in AI like transfer learning and generative models!<br>⚡ Training neural networks is similar to how the brain learns, adjusting weights instead of electrical signals.
 
