@@ -1,67 +1,172 @@
-<!-- HEADER BANNER -->
+<!-- HEADER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24,30&section=header&text=ZayyanCPU&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24,30&section=header&text=ZayyanCPU&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Engineer;Model+Tester;Agentic+AI+Workflows"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Engineer;LLM+and+Agentic+Workflows;MLOps+and+AI+Automation"/>
 </p>
 
 <h3 align="center">
-Machine Learning Engineer • Data Engineer • Model Tester
+AI Engineer • Machine Learning • LLM Systems • AI Automation
 </h3>
 
 <p align="center">
-Building systems that power intelligent machines
+Building intelligent systems powered by data, models, and automation
 </p>
 
 ---
 
 # 💫 About Me
 
-🔭 I focus on **developing and fine-tuning large language models (LLMs)** and building scalable AI systems.  
+Aspiring **AI Engineer** with industrial experience in **machine learning pipelines, LLM systems, and AI workflow automation**.
 
-🤝 I’m interested in collaborating on **AI projects in NLP, computer vision, and intelligent automation**.  
+🎓 Senior **BSc Artificial Intelligence student at FAST NUCES**
 
-🌱 Currently studying **transformers, reinforcement learning, and advanced neural architectures**.  
+⚙️ Experience building **LLM powered systems using LangChain, RAG, vector databases, and automation workflows**
 
-💬 Ask me about **LLMs, neural networks, model optimization, and AI infrastructure**.  
+🚀 Interested in **LLM engineering, AI agents, MLOps, and scalable AI systems**
 
-⚡ I enjoy exploring how **machine learning models learn patterns similar to how the human brain adapts**.
+🧠 Skilled in **model fine tuning, data pipelines, and machine learning optimization for real world applications**
+
+---
+
+# 🧑‍💻 Experience
+
+### AI Workflow Automation Intern  
+**Nexium — Lahore, Pakistan**
+
+• Integrated **LLMs with LangChain, MongoDB, and Supabase**
+
+• Built automated AI workflows using **n8n**
+
+• Developed backend logic enabling **web apps to process requests automatically**
+
+• Improved automation efficiency and reduced manual effort in AI pipelines
+
+---
+
+# 🚀 Featured Projects
+
+### MultiSense Agent  
+Multimodal AI chatbot with **WhatsApp integration** capable of processing:
+
+• Text  
+• Voice  
+• Images  
+• PDFs  
+
+Uses **RAG architecture, n8n automation, and Docker deployment** for scalable AI interaction.
+
+---
+
+### PromptDesk  
+AI powered **customer support agent**
+
+Built with:
+
+Python  
+LangChain  
+FastAPI  
+React  
+Vector Database  
+
+Features:
+
+• Semantic search across documents  
+• Source citation for answers  
+• Human escalation when confidence is low
+
+---
+
+### IntelliSignal RL
+Deep reinforcement learning traffic signal controller.
+
+• Built using **Deep Q Learning**  
+• Trained in **SUMO simulation environment**  
+• Reduced vehicle waiting time by **~80 percent**
+
+---
+
+### Pak Journal Archive System (Final Year Project)
+
+AI powered transcription system for **Urdu news broadcast archives**.
+
+• Converts video content into **searchable text**
+
+• Generates **timestamped transcripts**
+
+• Designed for **long term digital preservation of media archives**
+
+---
+
+### CardioML
+Machine learning system for **disease prediction** using:
+
+• SVC  
+• Naive Bayes  
+• Decision Trees  
+• Random Forest  
+• Logistic Regression
+
+---
+
+### TokenScope
+Cryptocurrency data analysis pipeline.
+
+• Fetches live market data using APIs  
+• Processes data using **Pandas**  
+• Generates insights with **Matplotlib visualization**
+
+---
+
+# 🧠 Skills
+
+### Machine Learning and AI
+Machine Learning  
+Natural Language Processing  
+Computer Vision  
+Recommender Systems  
+RAG Architecture  
+LLM Fine Tuning  
+Deep Q Learning  
+HuggingFace Transformers
+
+### Data and Engineering
+Python  
+SQL  
+Data Engineering  
+Feature Engineering  
+Exploratory Data Analysis  
+Data Pipelines
+
+### MLOps
+Docker  
+Git  
+GitHub Actions  
+MLflow  
+Neptune  
+DVC  
+Apache Airflow  
+AWS SageMaker  
+Microsoft Azure
 
 ---
 
 # 🌐 Connect With Me
 
-🌍 **Portfolio**  
+🌍 Portfolio  
 https://zayyan.work
 
-💼 **LinkedIn**  
-[https://linkedin.com/in/zayyan-ahmad](https://linkedin.com/in/zayyan-ahmad)
+💼 LinkedIn  
+https://linkedin.com/in/zayyan-ahmad
 
-📧 **Email**  
+💻 GitHub  
+https://github.com/ZayyanCPU
+
+📧 Email  
 zayyanahmad765@gmail.com
-
----
-
-# 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
