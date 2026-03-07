@@ -6,7 +6,7 @@
 <!-- TYPING ANIMATION -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=750&lines=AI+Engineer;Computer+Vision+Developer;Machine+Learning+Builder;Automotive+AI+Enthusiast"/>
-<img src="https://komarev.com/ghpvc/?username=blackmangoo&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=zayyancpu"/>
 
 </p>
 
