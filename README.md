@@ -1,11 +1,11 @@
 <!-- HEADER BANNER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Ammar%20Akbar&fontSize=38&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=ZayyanCPU&fontSize=38&fontColor=ffffff"/>
 </p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=750&lines=AI+Engineer;Computer+Vision+Developer;Machine+Learning+Builder;Automotive+AI+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&center=true&vCenter=true&width=750&lines=Machine+Learning+Engineer;Data+Engineer;Model+Tester;Agentic+Workflows"/>
 <img src="https://komarev.com/ghpvc/?username=zayyancpu"/>
 
 </p>
