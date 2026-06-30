@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-Machine Learning Engineer • Data Engineer • Model Tester
+Machine Learning Engineer • Data Engineer • Agent Auditor
 </h3>
 
 <p align="center">
